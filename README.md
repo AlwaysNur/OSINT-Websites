@@ -1,6 +1,6 @@
 # OSINT-Websites
 ## List of websites through which you can gather information legally!
-* ### Username
+* ### Username Search
   * [WhatsMyName](https://whatsmyname.app/)
   * [Namecheckr](https://www.namecheckr.com/)
   * [Names Directory](https://namesdir.com/)
